@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kawal-28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/Kawal-28/Leetcode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
