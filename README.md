@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Kawal-28/Leetcode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kawal-28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kawal-28/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kawal-28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kawal-28/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0520-detect-capital](https://github.com/Kawal-28/Leetcode/tree/master/0520-detect-capital) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kawal-28/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kawal-28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kawal-28/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -37,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Kawal-28/Leetcode/tree/master/0229-majority-element-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kawal-28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kawal-28/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Kawal-28/Leetcode/tree/master/0229-majority-element-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kawal-28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kawal-28/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
 |  |
@@ -59,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kawal-28/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kawal-28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
