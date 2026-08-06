@@ -15,13 +15,18 @@ class Solution {
 
         while(curr!=null){
             ListNode newNode=curr.next;
+
+            //correct posn in the sorted list
             ListNode prev=dummy;
             while(prev.next !=null && prev.next.val<curr.val){
                 prev=prev.next;
             }
+
+            //insert current node
             curr.next=prev.next;
             prev.next=curr;
-
+            
+            //move to next node
             curr=newNode;
 
         }
