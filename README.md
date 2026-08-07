@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kawal-28/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/Kawal-28/Leetcode/tree/master/0086-partition-list) |
 | [0147-insertion-sort-list](https://github.com/Kawal-28/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Kawal-28/Leetcode/tree/master/0148-sort-list) |
 ## Backtracking
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Kawal-28/Leetcode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Kawal-28/Leetcode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
