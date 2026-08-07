@@ -122,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Kawal-28/Leetcode/tree/master/0112-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/Kawal-28/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Kawal-28/Leetcode/tree/master/0112-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/Kawal-28/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -165,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kawal-28/Leetcode/tree/master/0148-sort-list) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Kawal-28/Leetcode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Kawal-28/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
