@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Kawal-28/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0443-string-compression](https://github.com/Kawal-28/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Kawal-28/Leetcode/tree/master/0520-detect-capital) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kawal-28/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kawal-28/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kawal-28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kawal-28/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Kawal-28/Leetcode/tree/master/0229-majority-element-ii) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kawal-28/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kawal-28/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kawal-28/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kawal-28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
