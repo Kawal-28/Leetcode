@@ -28,13 +28,11 @@
  *     }
  * }
  */
-import java.util.*;
-
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> ans = new ArrayList<>();
         if (root == null) return ans;
-
+        //Another approach to solve this problem
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
         boolean leftToRight = true;
@@ -46,21 +44,17 @@ class Solution {
             for (int i = 0; i < size; i++) {
                 TreeNode node = q.poll();
 
-                level.add(node.val);
-
-               
-                if (node.left != null) {
-                    q.add(node.left);
+                // Insert at the end for left-to-right, or at the beginning for right-to-left
+                if (leftToRight) {
+                    level.add(node.val);
+                } else {
+                    level.add(0, node.val);
                 }
-                
-                if (node.right != null){
-                    q.add(node.right);
-                } 
+
+                if (node.left != null) q.add(node.left);
+                if (node.right != null) q.add(node.right);
             }
 
-            if(!leftToRight){
-                Collections.reverse(level);
-            }
             ans.add(level);
             leftToRight = !leftToRight; 
         }
