@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kawal-28/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kawal-28/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kawal-28/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kawal-28/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kawal-28/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kawal-28/Leetcode/tree/master/0231-power-of-two) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kawal-28/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
