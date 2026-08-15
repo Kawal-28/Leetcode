@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kawal-28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0229-majority-element-ii](https://github.com/Kawal-28/Leetcode/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/Kawal-28/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kawal-28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kawal-28/Leetcode/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kawal-28/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kawal-28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kawal-28/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kawal-28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0086-partition-list](https://github.com/Kawal-28/Leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Kawal-28/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Kawal-28/Leetcode/tree/master/0148-sort-list) |
