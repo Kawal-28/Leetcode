@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kawal-28/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Kawal-28/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0057-insert-interval](https://github.com/Kawal-28/Leetcode/tree/master/0057-insert-interval) |
 | [0229-majority-element-ii](https://github.com/Kawal-28/Leetcode/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/Kawal-28/Leetcode/tree/master/0486-predict-the-winner) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Kawal-28/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Kawal-28/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0443-string-compression](https://github.com/Kawal-28/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Kawal-28/Leetcode/tree/master/0520-detect-capital) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kawal-28/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kawal-28/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
