@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kawal-28/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Kawal-28/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Kawal-28/Leetcode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Kawal-28/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Kawal-28/Leetcode/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kawal-28/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kawal-28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0086-partition-list](https://github.com/Kawal-28/Leetcode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Kawal-28/Leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Kawal-28/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Kawal-28/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kawal-28/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
