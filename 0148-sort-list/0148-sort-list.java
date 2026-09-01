@@ -30,6 +30,7 @@ class Solution {
         return merge(head1,head2);
 
     }
+    //merge sunction of merge sort 
     public ListNode merge(ListNode head1,ListNode head2){
         ListNode i=head1;
         ListNode j=head2;
