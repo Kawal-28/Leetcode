@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Kawal-28/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kawal-28/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kawal-28/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kawal-28/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kawal-28/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kawal-28/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kawal-28/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kawal-28/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
