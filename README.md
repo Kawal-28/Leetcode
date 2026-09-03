@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Kawal-28/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Kawal-28/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kawal-28/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Kawal-28/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Kawal-28/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kawal-28/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Kawal-28/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Kawal-28/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kawal-28/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Kawal-28/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Kawal-28/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Kawal-28/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Kawal-28/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kawal-28/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Kawal-28/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Kawal-28/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Prefix Sum
 |  |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kawal-28/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Kawal-28/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Kawal-28/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Matrix
 |  |
