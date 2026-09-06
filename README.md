@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Kawal-28/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Kawal-28/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Kawal-28/Leetcode/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/Kawal-28/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Kawal-28/Leetcode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Kawal-28/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Kawal-28/Leetcode/tree/master/0520-detect-capital) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Kawal-28/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Kawal-28/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Kawal-28/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kawal-28/Leetcode/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/Kawal-28/Leetcode/tree/master/0968-binary-tree-cameras) |
