@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kawal-28/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Kawal-28/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kawal-28/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Kawal-28/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Kawal-28/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/Kawal-28/Leetcode/tree/master/1563-stone-game-v) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Kawal-28/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kawal-28/Leetcode/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/Kawal-28/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/Kawal-28/Leetcode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Kawal-28/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kawal-28/Leetcode/tree/master/3904-smallest-stable-index-ii) |
