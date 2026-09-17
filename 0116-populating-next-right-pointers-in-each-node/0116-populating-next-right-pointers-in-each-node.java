@@ -24,29 +24,56 @@ class Node {
 class Solution {
     public Node connect(Node root) {
         if (root == null) return null;
-        Queue<Node> q = new LinkedList<>();
-        q.add(root);
         
-        while (!q.isEmpty()) {
-            int n = q.size();
-            Node prev = null;
+        Node leftMost = root;
+        
+        while (leftMost.left != null) {
+            Node curr = leftMost;
             
-            for (int i = 0; i < n; i++) {
-                Node curr = q.poll();
-                if (prev != null) {
-                    prev.next = curr;
+            while (curr != null) {
+                curr.left.next = curr.right;
+
+                if (curr.next != null) {
+                    curr.right.next = curr.next.left;
                 }
-                prev = curr;
                 
-                if (curr.left != null) {
-                    q.add(curr.left);
-                }
-                if (curr.right != null) {
-                    q.add(curr.right);
-                }
+                curr = curr.next;
             }
-            prev.next = null; 
+            
+            leftMost = leftMost.left;
         }
+        
         return root;
     }
 }
+
+
+// class Solution {
+//     public Node connect(Node root) {
+//         if (root == null) return null;
+//         Queue<Node> q = new LinkedList<>();
+//         q.add(root);
+        
+//         while (!q.isEmpty()) {
+//             int n = q.size();
+//             Node prev = null;
+            
+//             for (int i = 0; i < n; i++) {
+//                 Node curr = q.poll();
+//                 if (prev != null) {
+//                     prev.next = curr;
+//                 }
+//                 prev = curr;
+                
+//                 if (curr.left != null) {
+//                     q.add(curr.left);
+//                 }
+//                 if (curr.right != null) {
+//                     q.add(curr.right);
+//                 }
+//             }
+//             prev.next = null; 
+//         }
+//         return root;
+//     }
+// }
