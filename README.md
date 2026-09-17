@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kawal-28/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Kawal-28/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kawal-28/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Kawal-28/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Kawal-28/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/Kawal-28/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kawal-28/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kawal-28/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Kawal-28/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kawal-28/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Kawal-28/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Kawal-28/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/Kawal-28/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kawal-28/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kawal-28/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Kawal-28/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kawal-28/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Kawal-28/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Kawal-28/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/Kawal-28/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kawal-28/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kawal-28/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kawal-28/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Kawal-28/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Kawal-28/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Matrix
 |  |
