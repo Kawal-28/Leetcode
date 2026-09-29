@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Kawal-28/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kawal-28/Leetcode/tree/master/0877-stone-game) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Kawal-28/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1052-grumpy-bookstore-owner](https://github.com/Kawal-28/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1140-stone-game-ii](https://github.com/Kawal-28/Leetcode/tree/master/1140-stone-game-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kawal-28/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kawal-28/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Kawal-28/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1052-grumpy-bookstore-owner](https://github.com/Kawal-28/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kawal-28/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kawal-28/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kawal-28/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
